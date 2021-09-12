@@ -7,7 +7,8 @@ def circle_area(radius):
 
 print("Testing the area function:")
 
-print("The area of circle with radius=10 is: ", circle_area(10))
+print("The area of a circle with radius=10 is: ", circle_area(10))
+print("The area of a circle with radius=15 is: ", circle_area(15))
 
 # Developer B
 ## Create a function that computes the circumference of a circle 
